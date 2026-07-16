@@ -1,130 +1,31 @@
-# Hi there 👋, I'm Mithlesh Kumar Dewangan
+<h1 align="center">Hi 👋, I'm Mithlesh Kumar Dewangan</h1>
+<h3 align="center">Full Stack Web Developer | Building Production-Ready Web Applications | React.js • Node.js • React Native</h3>
 
-### Full Stack Web Developer • B.Sc. (Hons.) Information Technology
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithlesh-15&label=Profile%20views&color=0e75b6&style=flat" alt="mithlesh-15" /> </p>
 
-I build real-world web applications that solve practical problems. I enjoy taking ideas from concept to production and creating products that people actually use.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithlesh-15" alt="mithlesh-15" /></a> </p>
 
-🚀 **Highlights**
+- 🔭 I’m currently working on [Next-Generation Tuition Management Platform (RTC)](http://rtcdurg.vercel.app)
 
-* 💻 Full Stack Web Developer
-* 🎓 B.Sc. (Hons.) Information Technology
-* 👨‍💻 Built production applications used by **300+ users**
-* 🌱 Currently learning **TypeScript, React Native & System Design**
-* 🤝 Open to **Internships** and **Full-Time Opportunities**
+- 🌱 I’m currently learning **System Design, AI Integration, Cloud Computing, Docker, Kubernetes, Advanced TypeScript, Next.js, and Scalable Backend Architecture.**
 
----
+- 👯 I’m looking to collaborate on **Open Source, SaaS, AI, and Real-World Web Applications. I'm also open to internship opportunities and connecting with developers to build impactful products together.**
 
-## 🛠 Tech Stack
+- 👨‍💻 All of my projects are available at [https://github.com/Mithlesh-15](https://github.com/Mithlesh-15)
 
-### Frontend
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mithlesh-kumar-dewangan-li15](https://www.linkedin.com/in/mithlesh-kumar-dewangan-li15)
 
-* React.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
+- 📫 How to reach me **kamaldewangan367@gmail.com**
 
-### Backend
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hrws8rQe_EECY83pb7kudPt6ARruBUNE/view?usp=sharing](https://drive.google.com/file/d/1hrws8rQe_EECY83pb7kudPt6ARruBUNE/view?usp=sharing)
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication (JWT)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mithlesh__15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mithlesh__15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mithlesh kumar dewangan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithlesh kumar dewangan" height="30" width="40" /></a>
+</p>
 
-### Database
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-* PostgreSQL
-* MongoDB
-* Supabase
-* Firebase
-
-### Tools
-
-* Git
-* GitHub
-* Vercel
-* VS Code
-* Postman
-
----
-
-# 🚀 Featured Projects
-
-## 📚 Raj Tuition Classes (RTC)
-
-A production-ready Tuition Management Platform currently used by **250+ students and 5+ teachers**.
-
-### Features
-
-* Student & Teacher Management
-* Attendance System
-* Fee Management
-* Notice Board
-* Library Management
-* Gallery
-* Role-Based Authentication
-
-**Tech:** React.js • Node.js • Supabase • Tailwind CSS
-
----
-
-## 🏏 KhelMohlai
-
-A Real-Time Cricket Scoring Platform built for a local tournament.
-
-### Features
-
-* Live Score Updates
-* Match Management
-* Player Statistics
-* Responsive UI
-* Real-Time Data
-
-Used by **75+ users** during live matches.
-
-**Tech:** React.js • JavaScript • Supabase
-
----
-
-## 🤖 YojnaMitra AI
-
-An AI-powered platform that helps users discover government schemes based on eligibility and profile information.
-
-### Features
-
-* AI-powered Recommendations
-* Government Scheme Discovery
-* Responsive Interface
-* User-Friendly Experience
-
-**Tech:** React.js • Node.js • MongoDB • AI Integration
-
----
-
-# 📈 What I Enjoy Building
-
-* Full Stack Applications
-* SaaS Products
-* Dashboards
-* Real-Time Applications
-* AI-powered Web Apps
-* Productivity Tools
-
----
-
-# 🎯 Current Goal
-
-I'm looking for opportunities where I can contribute to real-world products, learn from experienced engineers, and continue growing as a Full Stack Developer.
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: *Add your LinkedIn profile*
-* 🌐 Portfolio: *Add your portfolio link*
-* 📧 Email: **[kamaldewangan367@gmail.com](mailto:kamaldewangan367@gmail.com)**
-
----
-
-⭐ *If you like my work, feel free to explore my repositories and connect with me.*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithlesh-15&show_icons=true&locale=en&layout=compact" alt="mithlesh-15" /></p>
